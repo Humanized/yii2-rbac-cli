@@ -1,5 +1,5 @@
 {
-    "name": "humanized/yii2-maintenance",
+    "name": "humanized/yii2-rbac-cli",
     "type": "yii2-extension",
     "description": "Yii2 Database AuthManager Command Line Interface",
     "keywords": ["yii2", "rbac", "module", "cli"],
